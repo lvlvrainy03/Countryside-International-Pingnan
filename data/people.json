@@ -1,0 +1,482 @@
+[
+  {
+    "id": "food-01",
+    "name": "胡朱云",
+    "role": "芙蓉李种植大户",
+    "roleEn": "A large grower of Furong plums (fruit)",
+    "tags": [
+      "果",
+      "农",
+      "种植"
+    ],
+    "image": "/assets/people/food-01.jpg"
+  },
+  {
+    "id": "food-02",
+    "name": "苏翠琴",
+    "role": "茶艺师",
+    "roleEn": "A tea artist (egg tea).",
+    "tags": [
+      "蛋",
+      "士",
+      "饮食"
+    ],
+    "image": "/assets/people/food-02.jpg"
+  },
+  {
+    "id": "food-03",
+    "name": "沈明辉",
+    "role": "新村民",
+    "roleEn": "A new villager (milk, tea).",
+    "tags": [
+      "奶/茶",
+      "士",
+      "饮食"
+    ],
+    "image": "/assets/people/food-03.jpg"
+  },
+  {
+    "id": "food-04",
+    "name": "刘思中",
+    "role": "兔子饲养员",
+    "roleEn": "A rabbit farmer (meat).",
+    "tags": [
+      "肉",
+      "农",
+      "采猎"
+    ],
+    "image": "/assets/people/food-04.jpg"
+  },
+  {
+    "id": "food-05",
+    "name": "谢海清",
+    "role": "食用菌种植大户",
+    "roleEn": "A large grower of edible fungi (mushrooms).",
+    "tags": [
+      "菌",
+      "农",
+      "种植"
+    ],
+    "image": "/assets/people/food-05.jpg"
+  },
+  {
+    "id": "food-06",
+    "name": "曾仰钦",
+    "role": "鱼产经销商",
+    "roleEn": "A fish and poultry dealer (fish, poultry).",
+    "tags": [
+      "鱼/禽",
+      "商",
+      "市场"
+    ],
+    "image": "/assets/people/food-06.jpg"
+  },
+  {
+    "id": "food-07",
+    "name": "胡伦雅",
+    "role": "家禽养殖户",
+    "roleEn": "Poultry farmer",
+    "tags": [
+      "禽",
+      "农",
+      "采猎"
+    ],
+    "image": "/assets/people/food-07.jpg"
+  },
+  {
+    "id": "food-08",
+    "name": "沈久聪",
+    "role": "茶厂老板",
+    "roleEn": "Tea factory owner",
+    "tags": [
+      "茶",
+      "商",
+      "市场"
+    ],
+    "image": "/assets/people/food-08.jpg"
+  },
+  {
+    "id": "food-09",
+    "name": "包阿姨",
+    "role": "家禽养殖街边摊主",
+    "roleEn": "Poultry farmer and peddler",
+    "tags": [
+      "禽",
+      "农/商",
+      "市场"
+    ],
+    "image": "/assets/people/food-09.jpg"
+  },
+  {
+    "id": "food-10",
+    "name": "陈光灿",
+    "role": "国家非遗红粬黄酒酿造技艺传承人",
+    "roleEn": "Inheritor of the national intangible cultural heritage technique for brewing red yeast rice wine.",
+    "tags": [
+      "酒",
+      "工",
+      "加工/生化"
+    ],
+    "image": "/assets/people/food-10.jpg"
+  },
+  {
+    "id": "food-11",
+    "name": "程美信",
+    "role": "屏南县传统村落文化创意产业顾问",
+    "roleEn": "Consultant for the cultural and creative industries of traditional villages in Pingnan County.",
+    "tags": [
+      "--",
+      "士",
+      "市场"
+    ],
+    "image": "/assets/people/food-11.jpg"
+  },
+  {
+    "id": "food-12",
+    "name": "福建惠泽龙酒业工人",
+    "role": "酒业车间工人",
+    "roleEn": "Worker at Fujian Huizelong Winery",
+    "tags": [
+      "酒",
+      "工",
+      "加工/生化"
+    ],
+    "image": "/assets/people/food-12.jpg"
+  },
+  {
+    "id": "food-13",
+    "name": "高延厅",
+    "role": "正高级工程师（林业）、大马士革玫瑰产品研发专家",
+    "roleEn": "Senior engineer (forestry) and expert in Damascus rose product development.",
+    "tags": [
+      "花",
+      "士/商",
+      "食材"
+    ],
+    "image": "/assets/people/food-13.jpg"
+  },
+  {
+    "id": "food-14",
+    "name": "黄观发",
+    "role": "观鱼养殖",
+    "roleEn": "Ornamental Fish farming",
+    "tags": [
+      "鱼",
+      "农",
+      "采猎"
+    ],
+    "image": "/assets/people/food-14.jpg"
+  },
+  {
+    "id": "food-15",
+    "name": "黄梅珠",
+    "role": "芙蓉李种植大户",
+    "roleEn": "Large grower of Furong plums",
+    "tags": [
+      "果",
+      "农",
+      "种植"
+    ],
+    "image": "/assets/people/food-15.jpg"
+  },
+  {
+    "id": "food-16",
+    "name": "江思林",
+    "role": "生态农业新农人",
+    "roleEn": "New farmer in ecological agriculture.",
+    "tags": [
+      "谷",
+      "农",
+      "种植"
+    ],
+    "image": "/assets/people/food-16.jpg"
+  },
+  {
+    "id": "food-17",
+    "name": "李关发",
+    "role": "正高级农艺师",
+    "roleEn": "Senior agronomist.",
+    "tags": [
+      "菜",
+      "士/农",
+      "种植"
+    ],
+    "image": "/assets/people/food-17.jpg"
+  },
+  {
+    "id": "food-18",
+    "name": "林德波",
+    "role": "返乡新农人",
+    "roleEn": "Returning new farmer.",
+    "tags": [
+      "酒/果",
+      "工/商",
+      "加工/生化/仓储"
+    ],
+    "image": "/assets/people/food-18.jpg"
+  },
+  {
+    "id": "food-19",
+    "name": "林剑华",
+    "role": "肉类市场经营",
+    "roleEn": "Meat vendor.",
+    "tags": [
+      "肉",
+      "商",
+      "市场"
+    ],
+    "image": "/assets/people/food-19.jpg"
+  },
+  {
+    "id": "food-20",
+    "name": "林正碌",
+    "role": "屏南县传统村落文化创意产业总策划",
+    "roleEn": "Chief planner for the cultural and creative industries of traditional villages in Pingnan County",
+    "tags": [
+      "--",
+      "士",
+      "市场"
+    ],
+    "image": "/assets/people/food-20.jpg"
+  },
+  {
+    "id": "food-21",
+    "name": "刘晓怡",
+    "role": "新村民",
+    "roleEn": "New villager.",
+    "tags": [
+      "--",
+      "商",
+      "餐饮/饮食"
+    ],
+    "image": "/assets/people/food-21.jpg"
+  },
+  {
+    "id": "food-22",
+    "name": "陆丽琼",
+    "role": "药膳美食厨师",
+    "roleEn": "Medicinal cuisine chef.",
+    "tags": [
+      "膳",
+      "工",
+      "餐饮/烹饪/食物"
+    ],
+    "image": "/assets/people/food-22.jpg"
+  },
+  {
+    "id": "food-23",
+    "name": "马惠东",
+    "role": "“人人都是咖啡师、精酿师”公益教学导师",
+    "roleEn": "Barista and Brewer (Public Welfare Teaching)",
+    "tags": [
+      "咖",
+      "士/工",
+      "烹饪/饮食"
+    ],
+    "image": "/assets/people/food-23.jpg"
+  },
+  {
+    "id": "food-24",
+    "name": "潘国老",
+    "role": "生态农业新农人",
+    "roleEn": "New farmer in ecological agriculture.",
+    "tags": [
+      "谷",
+      "士/农",
+      "种植"
+    ],
+    "image": "/assets/people/food-24.jpg"
+  },
+  {
+    "id": "food-25",
+    "name": "潘国毅",
+    "role": "新农人",
+    "roleEn": "New farmer.",
+    "tags": [
+      "谷",
+      "农/工",
+      "种植"
+    ],
+    "image": "/assets/people/food-25.jpg"
+  },
+  {
+    "id": "food-26",
+    "name": "潘家贵",
+    "role": "靠山饭店新厨",
+    "roleEn": "New chef at Kaoshan Restaurant.",
+    "tags": [
+      "膳",
+      "工/商",
+      "市场/餐饮/烹饪/饮食"
+    ],
+    "image": "/assets/people/food-26.jpg"
+  },
+  {
+    "id": "food-27",
+    "name": "潘家如",
+    "role": "四坪村党支部书记",
+    "roleEn": "Party branch secretary of Siping Village.",
+    "tags": [
+      "--",
+      "士",
+      "市场/餐饮/烹饪/饮食"
+    ],
+    "image": "/assets/people/food-27.jpg"
+  },
+  {
+    "id": "food-28",
+    "name": "彭珠英",
+    "role": "禽类养殖户",
+    "roleEn": "Poultry farmer.",
+    "tags": [
+      "禽",
+      "农",
+      "采猎"
+    ],
+    "image": "/assets/people/food-28.jpg"
+  },
+  {
+    "id": "food-29",
+    "name": "祁国艳",
+    "role": "IPA手作啤酒",
+    "roleEn": "Handmade IPA craft beer.",
+    "tags": [
+      "酒",
+      "商",
+      "加工/生化"
+    ],
+    "image": "/assets/people/food-29.jpg"
+  },
+  {
+    "id": "food-30",
+    "name": "青草店主",
+    "role": "青草店主",
+    "roleEn": "Herbal shop owner",
+    "tags": [
+      "草",
+      "商",
+      "食材/市场"
+    ],
+    "image": "/assets/people/food-30.jpg"
+  },
+  {
+    "id": "food-31",
+    "name": "邱允滔",
+    "role": "福建惠泽龙酒业股份有限公司董事长",
+    "roleEn": "Chairman of Fujian Huizelong Winery Co., Ltd.",
+    "tags": [
+      "酒",
+      "商",
+      "市场"
+    ],
+    "image": "/assets/people/food-31.jpg"
+  },
+  {
+    "id": "food-32",
+    "name": "瓜田农人",
+    "role": "黄瓜种植农户",
+    "roleEn": "Cucumber grower",
+    "tags": [
+      "果",
+      "农",
+      "种植"
+    ],
+    "image": "/assets/people/food-32.jpg"
+  },
+  {
+    "id": "food-33",
+    "name": "苏维邦",
+    "role": "药膳文化研究者",
+    "roleEn": "Researcher of medicinal cuisine culture.",
+    "tags": [
+      "膳",
+      "士",
+      "饮食"
+    ],
+    "image": "/assets/people/food-33.jpg"
+  },
+  {
+    "id": "food-34",
+    "name": "吴伦理",
+    "role": "第十代手工制作柴窑烧制硋器传承人",
+    "roleEn": "the 10th-generation inheritor of handmade wood-fired pottery.",
+    "tags": [
+      "器",
+      "工",
+      "饮食"
+    ],
+    "image": "/assets/people/food-34.jpg"
+  },
+  {
+    "id": "food-35",
+    "name": "谢桂任",
+    "role": "乡村菜车老板",
+    "roleEn": "Owner of a vegetable stall.",
+    "tags": [
+      "果",
+      "商",
+      "食材/物流/市场/送餐（少）"
+    ],
+    "image": "/assets/people/food-35.jpg"
+  },
+  {
+    "id": "food-36",
+    "name": "薛世隆",
+    "role": "药膳美食厨师",
+    "roleEn": "Medicinal cuisine chef.",
+    "tags": [
+      "膳",
+      "工",
+      "餐饮/烹饪/食物"
+    ],
+    "image": "/assets/people/food-36.jpg"
+  },
+  {
+    "id": "food-37",
+    "name": "杨美丽",
+    "role": "助农电商主播",
+    "roleEn": "E-commerce live-streaming host (promoting agricultural products)",
+    "tags": [
+      "菌",
+      "商",
+      "食材/市场/送餐"
+    ],
+    "image": "/assets/people/food-37.jpg"
+  },
+  {
+    "id": "food-38",
+    "name": "郑振如",
+    "role": "新农人",
+    "roleEn": "New farmer.",
+    "tags": [
+      "--",
+      "工",
+      "--"
+    ],
+    "image": "/assets/people/food-38.jpg"
+  },
+  {
+    "id": "food-39",
+    "name": "种子摊主",
+    "role": "种子摊主",
+    "roleEn": "Seed stall owner",
+    "tags": [
+      "果",
+      "商",
+      "食材/市场"
+    ],
+    "image": "/assets/people/food-39.jpg"
+  },
+  {
+    "id": "food-40",
+    "name": "卓萍萍",
+    "role": "助农电商主播",
+    "roleEn": "E-commerce live-streaming host(promoting agricultural products).",
+    "tags": [
+      "菌",
+      "商",
+      "食材/市场/送餐"
+    ],
+    "image": "/assets/people/food-40.jpg"
+  }
+]

@@ -2,8 +2,8 @@ import Link from "next/link";
 
 export function InnerHeader() {
   return <header className="inner-header shell">
-    <Link className="wordmark dark" href="/"><span>乡土国际</span><small>Countryside International</small></Link>
-    <nav aria-label="主导航"><Link href="/station">工作站</Link><Link href="/projects/amend-pingnan">项目</Link><Link href="/workshop">当前工作坊</Link><Link href="/archive">档案网络</Link><Link href="/about">关于</Link></nav>
+    <Link className="wordmark dark preserved-mark" href="/" aria-label="乡土国际 Countryside International"><img src="/assets/xiangtu-identity.png" alt="乡土国际"/></Link>
+    <nav aria-label="主导航"><Link href="/#field">四坪现场 / Field</Link><Link href="/#relations">交叉现场 / Chapters</Link><Link href="/#atlas">乡土图谱 / Atlas</Link><Link href="/about">关于</Link></nav>
   </header>;
 }
 

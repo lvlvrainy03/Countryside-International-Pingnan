@@ -2,7 +2,7 @@
 @import "tw-animate-css";
 @import "../vendor/shadcn-tailwind-4.13.0.css";
 
-:root { --background:#f3f1ea; --foreground:#151914; --paper:#f3f1ea; --ink:#151914; --signal:#b8ff18; --field:#24462d; --line:rgba(21,25,20,.22); --radius:0; }
+:root { --background:#0b200d; --foreground:#e2a578; --paper:#0b200d; --ink:#e2a578; --signal:#58b331; --field:#5b321b; --line:rgba(226,165,120,.3); --radius:0; }
 * { box-sizing:border-box; }
 html { scroll-behavior:smooth; }
 body { margin:0; background:var(--paper); color:var(--ink); font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",Arial,sans-serif; font-size:16px; }
@@ -53,6 +53,8 @@ nav a:hover, nav a:focus-visible { opacity:1; }
 }
 
 /* Shared interior pages */
+.preserved-mark{position:relative;width:225px;height:76px;overflow:hidden;flex-shrink:0}.preserved-mark img{position:absolute;max-width:none;width:279px;top:-38px;left:-27px}
+.inner-page p,.inner-page small,.inner-page time,.inner-page aside>span,.inner-page .eyebrow.dark-text,.inner-page .section-index,.inner-page .archive-row span,.inner-page .schedule span,.inner-page .source-note{color:#dab08e!important}.inner-page h1,.inner-page h2,.inner-page h3{line-height:1.15!important}.inner-header nav a{display:inline-block!important}.inner-page .live-pill,.inner-page .map-courtyard{color:#0b200d}.inner-page .network-art{background:#5b321b}.site-footer{background:#5b321b!important;color:#e2a578!important}
 .inner-header { min-height:92px; display:flex; align-items:center; justify-content:space-between; gap:32px; border-bottom:1px solid var(--line); }
 .wordmark.dark { color:var(--ink); }
 .inner-header nav a { opacity:.66; }
