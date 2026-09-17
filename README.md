@@ -1,4 +1,12 @@
-# vinext-starter
+# 乡土国际｜Countryside International
+
+## 在线访问
+
+[https://xiangtu-international.lvlvrainy.chatgpt.site](https://xiangtu-international.lvlvrainy.chatgpt.site)
+
+以福建屏南四坪村为现场，记录人物、项目、活动，以及展览、传播与研究。
+
+## 开发说明
 
 A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
 
